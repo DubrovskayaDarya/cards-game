@@ -1,0 +1,10 @@
+#checkbox {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    padding: 7px;
+    background-color: #eceaea;
+    border: 0.5px solid rgb(211, 211, 211);
+    border-radius: 20px;
+}
+

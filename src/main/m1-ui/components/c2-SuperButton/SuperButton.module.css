@@ -1,0 +1,19 @@
+
+
+.default {
+    border: 0.5px solid rgb(211, 211, 211);
+    border-radius: 20px;
+    margin: 5px;
+    letter-spacing: 0.05rem;
+    background-color: #eceaea;
+    color: rgb(115, 115, 115);
+    padding: 3px 5px;
+    position: relative;
+    transition-duration: 0.5s;
+}
+
+.error {
+    background: #ee4444;
+    border: 1px solid rgba(252, 0, 0, 0.77);
+    color: #ffffff;
+}
